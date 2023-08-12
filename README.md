@@ -42,7 +42,7 @@ Here are some ideas to get you started:
 - 🔭  I'm a Full-Time Undergraduate student persuing Computer Science at SRM University 
 - 🌱 I’m interested to collaborate in any project involving data transmission, protocol or AI related 
 - 👯 I do research on anything related to Machine Learning and network streaming configurations
-- 💬 Ask C, C++, Python, Latex
+- 💬 Ask me about C, C++, Python, Latex
 
 <!--Intro end-->
 

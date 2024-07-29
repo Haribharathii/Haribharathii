@@ -4,10 +4,11 @@
 
 Here are some ideas to get you started:
 
-- 🔭  I'm a Full-Time Undergraduate student persuing Computer Science at SRM University 
-- 🌱 I’m interested to collaborate in any project involving data transmission, protocol or AI related 
+- 🔭  I'm a Full-Time Graduate student pursuing Computer Science at University of Southern California  
+- 🌱 I’m interested to collaborate in any project involving data structures, data transmission, algorithm design, protocol or AI related 
 - 👯 I do research on anything related to Machine Learning and network streaming configurations
-- 💬 Ask C, C++, Python, Latex
+- 💬 Ask C++, C, Python, Javascript, BASH, Latex
+- Frameworks & Developer Tools: AWS, EC2, S3, Lambda, NVML, CUDA, VS Code, Docker, GitHub, Git, Makefile, Linux, Pandas, Kafka, NumPy, Scikit-Learn, Matplotlib, Seaborn, TensorFLow, Keras
 - 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/haribharathi-sivakumar-7b4878219/)https://www.linkedin.com/in/haribharathi-sivakumar-7b4878219/
 
 -->
@@ -39,10 +40,12 @@ Here are some ideas to get you started:
 
 
 <!--Intro start-->
-- 🔭  I'm a Full-Time Undergraduate student persuing Computer Science at SRM University 
-- 🌱 I’m interested to collaborate in any project involving data transmission, protocol or AI related 
+- 🔭  I'm a Full-Time Graduate student pursuing Computer Science at University of Southern California  
+- 🌱 I’m interested to collaborate in any project involving data structures, data transmission, algorithm design, protocol or AI related 
 - 👯 I do research on anything related to Machine Learning and network streaming configurations
-- 💬 Ask me about C, C++, Python, Latex
+- 💬 Ask C++, C, Python, Javascript, BASH, Latex
+- Frameworks & Developer Tools: AWS, EC2, S3, Lambda, NVML, CUDA, VS Code, Docker, GitHub, Git, Makefile, Linux, Pandas, Kafka, NumPy, Scikit-Learn, Matplotlib, Seaborn, TensorFLow, Keras
+- 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/haribharathi-sivakumar-7b4878219/)https://www.linkedin.com/in/haribharathi-sivakumar-7b4878219/
 
 <!--Intro end-->
 

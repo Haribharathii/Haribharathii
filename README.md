@@ -46,7 +46,7 @@ Here are some ideas to get you started:
 - 👯 I do research on anything related to Machine Learning and network streaming configurations
 - 💬 Ask C++, C, Python, Javascript, BASH, Latex
 - Frameworks & Developer Tools: AWS, EC2, S3, Lambda, NVML, CUDA, VS Code, Docker, GitHub, Git, Makefile, Linux, Pandas, Kafka, NumPy, Scikit-Learn, Matplotlib, Seaborn, TensorFLow, Keras
-- 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/haribharathi-sivakumar-7b4878219/)https://www.linkedin.com/in/haribharathi-sivakumar-7b4878219/
+- 📫 How to reach me: [](https://www.linkedin.com/in/haribharathi-sivakumar-7b4878219/)https://www.linkedin.com/in/haribharathi-sivakumar-7b4878219/
 
 <!--Intro end-->
 

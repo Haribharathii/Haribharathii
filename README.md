@@ -76,7 +76,7 @@ Here are some ideas to get you started:
 <!--icons and links-->
 <p align="center">
 <a href="https://www.linkedin.com/in/haribharathi-sivakumar-7b4878219/" target="blank"><img align="center" src="https://user-images.githubusercontent.com/88904952/234979284-68c11d7f-1acc-4f0c-ac78-044e1037d7b0.png" alt="linkedin" height="50" width="50" /></a>
-<a href="https://leetcode.com/u/hari28/" target="blank"><img align="center" src="https://github.com/user-attachments/assets/06721487-d6a4-4fa4-97d2-482b1efbcfcc
+<a href="https://leetcode.com/u/hari28/" target="blank"><img align="center" src="![leetcode](https://github.com/user-attachments/assets/a0d6836d-ee55-4d0d-b60d-edecbd7ac5d2)
 " alt="Leetcode" height="50" width="50" /></a>
 
 <hr>

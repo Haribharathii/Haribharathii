@@ -69,13 +69,14 @@ Here are some ideas to get you started:
 <!--h2 without bottom border-->
 <div id="user-content-toc">
   <ul align="center">
-    <summary><h2 style="display: inline-block">Connect With Me🤝</h2></summary>
+    <summary><h2 style="display: inline-block">My profiles🤝</h2></summary>
   </ul>
 </div>
 
 <!--icons and links-->
 <p align="center">
 <a href="https://www.linkedin.com/in/haribharathi-sivakumar-7b4878219/" target="blank"><img align="center" src="https://user-images.githubusercontent.com/88904952/234979284-68c11d7f-1acc-4f0c-ac78-044e1037d7b0.png" alt="linkedin" height="50" width="50" /></a>
+<a href="https://leetcode.com/u/hari28/" target="blank"><img align="center" src="https://www.google.com/imgres?q=leetcode&imgurl=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F41718343%3Fs%3D280%26v%3D4" alt="linkedin" height="50" width="50" /></a>
 
 <hr>
 

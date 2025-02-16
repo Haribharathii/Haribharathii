@@ -63,7 +63,7 @@ Here are some ideas to get you started:
 <!--tech stack icons-->
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,c,discord,github,mysql,python&perline=14" />
+    <img src="https://skillicons.dev/icons?i=git,c,c++,aws,mysql,python,js,html,css,unity&perline=14" />
   </a>
 </p>
 

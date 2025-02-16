@@ -37,11 +37,14 @@ Here are some ideas to get you started:
 
 
 <!--Intro start-->
-- 🔭  I'm a Full-Time Graduate student pursuing Computer Science at University of Southern California  
-- 🌱 I’m interested to collaborate in any project involving data structures, data transmission, algorithm design, protocol or AI related 
-- 👯 I do research on anything related to Machine Learning and network streaming configurations
-- 💬 Ask C++, C, Python, Javascript, BASH, Latex
-- Frameworks & Developer Tools: AWS, EC2, S3, Lambda, NVML, CUDA, VS Code, Docker, GitHub, Git, Makefile, Linux, Pandas, Kafka, NumPy, Scikit-Learn, Matplotlib, Seaborn, TensorFLow, Keras
+- 🔭  I'm a Full-Time Graduate student computer Science at University of Southern California (USC), Los Angeles  
+- 🌱 I’m interested to collaborate in any project involving data structures, data transmission, algorithm design, protocol, full-stack or AI related 
+- 👯 I do research on anything related to Machine Learning system engineering, and network streaming configurations
+- 💬 I use these languages C++, C, C#, Python, Javascript, Typescript, SQL, HTML, CSS, BASH, Latex
+- Frameworks:  MATLAB, MLIR, Bazel, QEMU, Docker, Clang, Git, Makefile, Linux
+- AI/ML Libraries: NVML, CUDA, Keras, Scikit-Learn, TPU, TensorFLow, Pytorch, JAX, Computer Vision, Hugging Face
+- Cloud Tech: AWS, EC2, S3, Lambda, Firebase
+- Full-stack:  Django, Reactjs, Expressjs, MongoDB, Nodejs, REST, Postman, PostgreSQL, NoSql
 - 📫 How to reach me: [](https://www.linkedin.com/in/haribharathi-sivakumar-7b4878219/)https://www.linkedin.com/in/haribharathi-sivakumar-7b4878219/
 
 <!--Intro end-->

@@ -37,14 +37,16 @@ Here are some ideas to get you started:
 
 
 <!--Intro start-->
-- 🔭  I'm a Full-Time Graduate Computer Science student at University of Southern California (USC), Los Angeles  
-- 🌱 I’m interested to collaborate in any project involving data structures, data transmission, algorithm design, protocol, full-stack or AI related 
+- 🔭  I'm a Full-Time Graduate Computer Science student at University of Southern California (USC), Los Angeles
+- I'm currently building a virtual filesystem, virtual memory, processes and a threading subsystem for a UNIX system
+- 🌱 I’m interested to collaborate in any project involving multi-threaded system design, algorithm design, computer networks and competetive programming
 - 👯 I do research on anything related to Machine Learning, system engineering, and network streaming configurations
-- 💬 I use these languages C++, C, C#, Python, Javascript, Typescript, SQL, HTML, CSS, BASH, Latex
-- Frameworks:  MATLAB, MLIR, Bazel, QEMU, Docker, Clang, Git, Makefile, Linux
+- 💬 I use these languages C++, C, C#, Python, Javascript, Typescript, SQL, HTML, CSS, BASH
+- Developer Tools:  Vulkan, OpenGL, DirectX 12, Clang, Linux, QEMU
+- Frameworks:  MATLAB, MLIR, Bazel, Docker, Git, Makefile
 - AI/ML Libraries: NVML, CUDA, Keras, Scikit-Learn, TPU, TensorFLow, Pytorch, JAX, Computer Vision, Hugging Face
-- Cloud Tech: AWS, EC2, S3, Lambda, Firebase
-- Full-stack:  Django, Reactjs, Expressjs, MongoDB, Nodejs, REST, Postman, PostgreSQL, NoSql
+- Cloud Tech: AWS (EC2, S3, Lambda), Azure, GCP, Firebase
+
 - 📫 How to reach me: [](https://www.linkedin.com/in/haribharathi-sivakumar-7b4878219/)https://www.linkedin.com/in/haribharathi-sivakumar-7b4878219/
 
 <!--Intro end-->

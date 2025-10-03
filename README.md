@@ -37,7 +37,7 @@ Here are some ideas to get you started:
 
 <div id="user-content-toc">
   <ul align="center">
-    <summary><h2 style="display: inline-block">I'm currently building a virtual filesystem, virtual memory, processes and a threading subsystem for a UNIX system !!!</h2></summary>
+    <summary><h2 style="display: inline-block">I'm currently building a virtual filesystem, virtual memory, processes and a threading subsystem for a 6th edition weenix kernel for a UNIX system !!!</h2></summary>
   </ul>
 </div>
 

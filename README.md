@@ -35,10 +35,15 @@ Here are some ideas to get you started:
   </ul>
 </div>
 
+<div id="user-content-toc">
+  <ul align="center">
+    <summary><h2 style="display: inline-block">I'm currently building a virtual filesystem, virtual memory, processes and a threading subsystem for a UNIX system</h2></summary>
+  </ul>
+</div>
+
 
 <!--Intro start-->
 - 🔭  I'm a Full-Time Graduate Computer Science student at University of Southern California (USC), Los Angeles
-- I'm currently building a virtual filesystem, virtual memory, processes and a threading subsystem for a UNIX system
 - 🌱 I’m interested to collaborate in any project involving multi-threaded system design, algorithm design, computer networks and competetive programming
 - 👯 I do research on anything related to Machine Learning, system engineering, and network streaming configurations
 - 💬 I use these languages C++, C, C#, Python, Javascript, Typescript, SQL, HTML, CSS, BASH
